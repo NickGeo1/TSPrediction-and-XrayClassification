@@ -28,7 +28,7 @@ Depending on what you are making, it can be a good idea to include screenshots o
 ```
 conda env create -f environment.yml
 ```
-This will create a **python 3.9** environment with the required pachages and name "konnektable"
+This will create a **python 3.9** environment with the required packages and name "konnektable"
 
 3. Use the previously created environment in your **IDE** to run the code (TODO)
 
