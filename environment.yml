@@ -1,4 +1,4 @@
-name: konnektable
+name: mltasks
 channels:
   - defaults
 dependencies:
@@ -163,4 +163,3 @@ dependencies:
       - widgetsnbextension==4.0.13
       - yarl==1.18.0
       - zipp==3.21.0
-prefix: C:\Users\nikos\anaconda3\envs\konnektable
