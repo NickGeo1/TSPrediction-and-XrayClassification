@@ -1,6 +1,11 @@
-# Konnektable assignment
+# Task 1
 
-## Installation/general
+We develop a reliable model for forecasting the daily water consumption in a city for the next two years. We utilize a time-series dataset containing hourly water usage data from 2002 to 2016. The final predictions are for the years 2017-2018.
+
+# Task 2
+We develop a binary image classification model for identifying and categorizing COVID-19 images to determine whether a patient has COVID-19 or not. The dataset used in this task consists of chest X-Ray images in JPEG format, which are classified into two categories, COVID-19 and Healthy
+
+# Installation/general
 1. Install conda using miniconda installer [here](https://www.anaconda.com/download/success)
 
 2. Open Anaconda prompt and install the environment from **environment.yml** by running the following command (make sure the file is located at the specified path):
