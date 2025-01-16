@@ -12,7 +12,7 @@ We develop a binary image classification model for identifying and categorizing 
 ```
 conda env create -f environment.yml
 ```
-This will create a **python 3.9** environment with the required packages and name "konnektable"
+This will create a **python 3.9** environment with the required packages and name "mltasks"
 
 3. Use the previously created environment in your **IDE** to run the jupyter notebook at `\Water_Consumption\timeseries.ipynb`. 
 Please note that the `*.nb` files contain the trained neuralprophet models and they have to be at the same directory as `timeseries.ipynb`
